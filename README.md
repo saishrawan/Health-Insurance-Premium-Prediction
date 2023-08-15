@@ -7,3 +7,12 @@ The key questions we aim to answer through this project are:
 1) What are the key demographic and lifestyle factors that most affect a customer's annual medical expenses?
 2) What statistical analysis techniques and machine learning algorithms are best suited for developing an insurance price prediction model?
 3) How can we improve the accuracy and performance of the insurance price prediction model and ensure that it is robust and reliable?
+
+
+Team members:
+1. Saishrawan
+2. Hema
+3. Sidhanth
+
+
+
